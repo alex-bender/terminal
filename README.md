@@ -3,7 +3,7 @@ Features I'd like to have in terminal which could help me proceed with my day-to
 
 - history
 - commands statistics
-- hints
+- hints (based on history or dir content)
 - commands usage timing
 - open terminal after reboot on the same folders (remember pwd states)
 - run frequently used commands with hotkeys (example command name is `hk`)
