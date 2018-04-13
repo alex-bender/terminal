@@ -14,3 +14,4 @@ git add . (1)
 git commit -a (2)
 ...
 ```
+- ability to change git configs quicly, `git config hooks.varname true` (dashboard?)
