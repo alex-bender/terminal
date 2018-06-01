@@ -15,3 +15,6 @@ git commit -a (2)
 ...
 ```
 - ability to change git configs quicly, `git config hooks.varname true` (dashboard?)
+- terminal should recognize patterns and suggest arguments basing on previous patterns
+- watch env variables, allow easily edit, delete, remove it
+- fast movement (vim-easymotion)
