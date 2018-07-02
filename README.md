@@ -18,3 +18,12 @@ git commit -a (2)
 - terminal should recognize patterns and suggest arguments basing on previous patterns
 - watch env variables, allow easily edit, delete, remove it
 - fast movement (vim-easymotion)
+- Data from .info file in CWD or from filr ~/.info which contains path:note would be displayed on cd'ing into folder.
+```
+user@box:~$ cd untitled1
+user@box:~/untitled1$
+"Keep your *** here"
+user@box:~/untitled1$ cat .info
+"Keep your *** here"
+user@box:~/untitled1$
+```
